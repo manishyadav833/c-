@@ -5,10 +5,6 @@ class person{
 	public:
 		string name;
 		int age;
-//		person(string name,int age){
-//			name=name;
-//			age=age;
-//		}
     };
 	class student:public person {
 		public:
